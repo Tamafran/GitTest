@@ -1,8 +1,3 @@
-function count(number) {
-  if (number == undefined) {
-    console.log(13);
-  } else {
-    console.log(number);
-  }
+function count(param1, param2) {
+  console.log(param1 + " " + param2);
 }
-count();
