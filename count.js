@@ -1,3 +1,3 @@
-function count(string) {
-  console.log(string);
+function count() {
+  console.log(12);
 }
