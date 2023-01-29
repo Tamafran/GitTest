@@ -1,0 +1,19 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "git teszt project",
+  "main": "count.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tamafran/GitTest.git"
+  },
+  "author": "wzsj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tamafran/GitTest/issues"
+  },
+  "homepage": "https://github.com/Tamafran/GitTest#readme"
+}
