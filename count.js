@@ -1,3 +1,7 @@
-function count() {
-  console.log(12);
+function count(number) {
+  if(number == undefined) {
+    console.log(12);
+  } else {
+    console.log(number);
+  }
 }
