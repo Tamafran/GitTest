@@ -1,5 +1,5 @@
-function cheer(teamName) {
-  console.log("JS");
+function cheer(parameter) {
+  console.log(`Cheer for the ${parameter}`);
 }
 
 cheer("ourteam");
